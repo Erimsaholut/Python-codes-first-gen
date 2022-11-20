@@ -1,0 +1,8 @@
+print("Araba değer hesaplayıcısına hoş geldiniz")
+sıfır = input("Aracınızın sıfır fiyatını giriniz: ")
+yas = input("Aracınızın modelini giriniz: ")
+deg = input("Aracınızın degisen parça sayısını yazınız (yoksa '0' yazın): ")
+Boya = input("Aracınızın boyalı parça sayısını yazınız (yoksa '0' yazın): ")
+yas_son = 2022 - int(yas)
+deger = int(sıfır) - (25_000*int(yas_son))-(30_000*int(deg))-(15_000*int(Boya))
+print("Aracınızın değeri"+ str(deger) + "TL")

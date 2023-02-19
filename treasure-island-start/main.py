@@ -125,7 +125,7 @@ else:
         |\(%()*^^()^\
        %| |-%-------|
       % \ | %  ))   |
-      %  \|%________|\n Sandığı açtığınızda içinden 'Gerçek hazine çıktın bu macerada esnasında öğrendiklerin ve hayallerinin peşinden gitmenin veridiği mutluluk' yazıyor.""")
+      %  \|%________|\n Sandığı açtığınızda içinden 'Gerçek hazine çıktığın bu macerada esnasında öğrendiklerin ve hayallerinin peşinden gitmenin veridiği mutluluk' yazıyor.""")
       print("""
 
                _..._

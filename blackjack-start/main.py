@@ -88,7 +88,7 @@ def yirmibir():
         print("Berabere")
 
 
-while not bitir: ## yola devam et şaklabanlar kralken lois lane i olmadanda başarabilir clark kent 
+while not bitir: 
     yirmibir()
     bitsin_mi = input("Yeni oyun için 'y',oyunu bitirmek için 'n' yazınız.")
     if bitsin_mi == "n":

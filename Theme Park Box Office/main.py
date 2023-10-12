@@ -9,9 +9,6 @@ if c >= 120:
     b = 5
   else:
     b = 7
-  k= input("Suriyeli misin E ya da H ?") 
-  if k == "E":
-    b += 5
 else:
   print("git")
 print(b)

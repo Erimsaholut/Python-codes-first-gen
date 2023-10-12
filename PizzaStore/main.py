@@ -40,7 +40,4 @@ else:
 
 if kov == 0:
     print(f"Hesabınız {hesaps}TL tuttu.\n   Yine bekleriz.")
-else:
-    print(
-        "Adam gibi söyle **** **** \n  Bu dükkandan tekrar geldiğini görürsem pizza küreğini **** **** senin"
-    )
+
